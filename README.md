@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jack Du, 3rd year student in the University of British Columbia
+- 👋 Hi, I’m Jack Du, undergraduate student in the University of British Columbia
 - 👀 I’m interested in applied mathematics, data science and machine learning
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on any projects that have creative ideas and huge potentials in related fields
