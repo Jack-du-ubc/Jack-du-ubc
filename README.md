@@ -1,19 +1,27 @@
-# Welcome to my Github Profile
-# <h1><p align="center">Hello, I'm Jack Du!</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fasthand&size=30&duration=2000&pause=500&center=true&multiline=true&width=435&height=100&lines=Welcome+to+my+Github+Profile;I+am+Jack+Du" alt="Welcome, I am Jack Du 👋"></img>
+</div>
+
     
 # 👨🏻‍💻 About Me
 
-- 👋 Hi, I’m Jack Du, undergraduate student in the University of British Columbia
-- 👀 I’m interested in applied mathematics, data science and machine learning
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on any projects that have creative ideas and huge potentials in related fields
-- 📫 How to reach me ...
+<a target="_blank" align="center">
+  <img align="right" top="300" height="300" width="400" alt="GIF" src="GIFs/software-engineering1.gif">
+</a>
 
-<br>
-<hr>
-<br>
+- 🏫 International student in **the University of British Columbia** 🇨🇦
+- 📚 Major in **Mathematics** ✏️ Minor in **Statistics** 📊
+- 🌏 My nationality is **Chinese** 🇨🇳
+- 👀 Interests in Applied Mathematics 📝 Machine Learning 🤖 Software Engineering 💻
+- ✍️  Currently I am studying Natural Language Processing
+- 🏅 I love to play sports in my spare time ⚽🏀⚾🎱🎳🏊‍♂️🚴‍♂️🏓🏸
+- 🕯️ My favourite quote is \
+_"Never say never, because limits, like fears, are often just an illusion."_
 
-# 🛠 Languages and Skills
+<br/><br/>
+<br/><br/>
+
+# 🎨 Languages and Skills
 
 ## 👉 Frontend Languages
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;][html]
@@ -33,17 +41,17 @@
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;][ruby]
 [![MATLAB](https://img.shields.io/badge/-MATLAB-765432?style=for-the-badge&logo=matlab&logoColor=white)&nbsp;][matlab]
 
-## 👉 Database
+## 👉 Database Languages
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;][mysql]
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;][sqlite]
 
-## 👉 Tools
+## 🛠 Dev Tools & Platforms
 [![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git)&nbsp;][git]
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;][github]
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;][tableau]
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;][anaconda]
 
-## 👉 IDE
+## 🖥️ IDE
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;][vscode]
 [![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)&nbsp;][rstudio]
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-314159.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;][intellijidea]
@@ -73,6 +81,20 @@
   <!--- stats (end) -->
 </p>
 
+<br/><br/>
+
+# 🤝🏻 How to contact me
+<p align="center">
+&nbsp; <a href="https://www.linkedin.com/in/jack-du-ubc/"><img src="Logos/icons8-linkedin.png" width="50"/></a>  
+&nbsp; <a href="https://www.instagram.com/linchuandu1/"><img src="Logos/icons8-instagram.png" width="50" /></a>  
+&nbsp; <a href="mailto:jack.du.ubc@gmail.com"><img src="Logos/icons8-gmail.png" width="50" /></a>
+&nbsp; <a href="https://twitter.com/JackDu2002"><img src="Logos/icons8-twitter.png"  width="50" /></a>
+</p>
+
+
+<div align="center">
+  &copy; 2023 Jack Du
+</div>
 
 [html]: https://devdocs.io/html/
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS/
@@ -105,9 +127,6 @@
 [pycharm]: https://www.jetbrains.com/pycharm/
 [colab]: https://colab.research.google.com/
 
-<div align="center">
-  &copy; 2023 Jack Du
-</div>
 
 <!---
 Jack-du-ubc/Jack-du-ubc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
