@@ -6,19 +6,19 @@
 # 👨🏻‍💻 About Me
 
 <a target="_blank" align="center">
-  <img align="right" top="300" height="300" width="400" alt="GIF" src="GIFs/software-engineering1.gif">
+  <img align="right" top="300" height="200" width="300" alt="GIF" src="GIFs/software-engineering1.gif">
 </a>
 
-- 🏫 International student in **the University of British Columbia** 🇨🇦
+- 🏫 Undergraduate in **the University of British Columbia** 🇨🇦
 - 📚 Major in **Mathematics** ✏️ Minor in **Statistics** 📊
 - 🌏 My nationality is **Chinese** 🇨🇳
-- 👀 Interests in Applied Mathematics 📝 Machine Learning 🤖 Software Engineering 💻
-- ✍️  Currently I am studying Natural Language Processing
-- 🏅 I love to play sports in my spare time ⚽🏀⚾🎱🎳🏊‍♂️🚴‍♂️🏓🏸
+- 👀 Interests in Applied Math 📝 ML 🤖 Software Engineering 💻
+- ✍️  Currently studying Natural Language Processing
+- 🏅 My hobby is to play sports ⚽🏀⚾🎱🎳🏊‍♂️🚴‍♂️🏓🏸
 - 🕯️ My favourite quote is \
-_"Never say never, because limits, like fears, are often just an illusion."_
+_"Never say never, because limits, like fears, \
+are often just an illusion. -- Michael Jordan"_
 
-<br/><br/>
 <br/><br/>
 
 # 🎨 Languages and Skills
