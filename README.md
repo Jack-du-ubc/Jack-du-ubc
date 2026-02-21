@@ -9,12 +9,12 @@
   <img align="right" top="300" height="200" width="300" alt="GIF" src="GIFs/software-engineering1.gif">
 </a>
 
-- 🏫 Undergraduate in **the University of British Columbia** 🇨🇦
+- 🏫 Alminus of **the University of British Columbia** 🇨🇦
 - 📚 Major in **Mathematics** ✏️ Minor in **Statistics** 📊
 - 🌏 My nationality is **Chinese** 🇨🇳
 - 👀 Interests in Applied Math 📝 ML 🤖 Software Engineering 💻
 - ✍️  Currently studying Natural Language Processing
-- 🏅 My hobby is to play sports ⚽🏀⚾🎱🎳🏊‍♂️🚴‍♂️🏓🏸
+- 🏅 My hobby is playing sports ⚽🏀⚾🎱🎳🏊‍♂️🚴‍♂️🏓🏸
 - 🕯️ My favourite quote is \
 _"Never say never, because limits, like fears, \
 are often just an illusion. -- Michael Jordan"_
@@ -25,21 +25,21 @@ are often just an illusion. -- Michael Jordan"_
 
 ## 👉 Frontend Languages
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)][html]
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)][css]
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)][css]
 [![Bootstrap](https://img.shields.io/badge/Bootstrap5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)][bootstrap]
 [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)][sass]
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)][markdown]
 
 ## 👉 Backend Languages
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)][python]
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logo=java)][java]
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)][java]
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)][javascript]
 [![R (Statistics)](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)][rlang]
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)][c++]
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)][c]
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)][php]
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)][ruby]
-[![MATLAB](https://img.shields.io/badge/-MATLAB-765432?style=for-the-badge&logo=matlab&logoColor=white)][matlab]
+[![MATLAB](https://img.shields.io/badge/-MATLAB-765432?style=for-the-badge)][matlab]
 
 ## 👉 Database Languages
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)][mysql]
@@ -52,8 +52,8 @@ are often just an illusion. -- Michael Jordan"_
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)][anaconda]
 
 ## 🖥️ IDE
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)][vscode]
-[![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)][rstudio]
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge)][vscode]
+[![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=r&logoColor=white)][rstudio]
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-314159.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)][intellijidea]
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)][jupyter]
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)][pycharm]
@@ -69,8 +69,6 @@ are often just an illusion. -- Michael Jordan"_
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jack-du-ubc&theme=dark&show_icons=true&count_private=true" />
-        <br></br>
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jack-du-ubc&theme=dark&hide_border=false" /> 
       </td>
       <td width="50%" align="center">
