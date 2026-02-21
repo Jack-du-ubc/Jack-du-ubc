@@ -81,8 +81,6 @@ are often just an illusion. -- Michael Jordan"_
   <!--- stats (end) -->
 </p>
 
-<br/><br/>
-
 <div align="center">
   &copy; 2023 Jack Du
 </div>
