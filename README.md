@@ -79,10 +79,6 @@ are often just an illusion. -- Michael Jordan"_
   <!--- stats (end) -->
 </p>
 
-<div align="center">
-  &copy; 2023 Jack Du
-</div>
-
 [html]: https://devdocs.io/html/
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS/
 [bootstrap]: https://getbootstrap.com/docs/5.3/getting-started/introduction/
