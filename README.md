@@ -24,40 +24,40 @@ are often just an illusion. -- Michael Jordan"_
 # 🎨 Languages and Skills
 
 ## 👉 Frontend Languages
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;][html]
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;][css]
-[![Bootstrap](https://img.shields.io/badge/Bootstrap5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;][bootstrap]
-[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;][sass]
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;][markdown]
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)][html]
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)][css]
+[![Bootstrap](https://img.shields.io/badge/Bootstrap5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)][bootstrap]
+[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)][sass]
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)][markdown]
 
 ## 👉 Backend Languages
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)&nbsp;][python]
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logo=java)&nbsp;][java]
-[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;][javascript]
-[![R (Statistics)](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;][rlang]
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)&nbsp;][c++]
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;][c]
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;][php]
-[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;][ruby]
-[![MATLAB](https://img.shields.io/badge/-MATLAB-765432?style=for-the-badge&logo=matlab&logoColor=white)&nbsp;][matlab]
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)][python]
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logo=java)][java]
+[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)][javascript]
+[![R (Statistics)](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)][rlang]
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)][c++]
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)][c]
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)][php]
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)][ruby]
+[![MATLAB](https://img.shields.io/badge/-MATLAB-765432?style=for-the-badge&logo=matlab&logoColor=white)][matlab]
 
 ## 👉 Database Languages
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;][mysql]
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;][sqlite]
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)][mysql]
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)][sqlite]
 
 ## 🛠 Dev Tools & Platforms
-[![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git)&nbsp;][git]
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;][github]
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;][tableau]
-[![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;][anaconda]
+[![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git)][git]
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)][tableau]
+[![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)][anaconda]
 
 ## 🖥️ IDE
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;][vscode]
-[![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)&nbsp;][rstudio]
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-314159.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;][intellijidea]
-[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;][jupyter]
-[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;][pycharm]
-[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)&nbsp;][colab]
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)][vscode]
+[![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)][rstudio]
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-314159.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)][intellijidea]
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)][jupyter]
+[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)][pycharm]
+[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)][colab]
 
 <br>
 <hr>
