@@ -83,15 +83,6 @@ are often just an illusion. -- Michael Jordan"_
 
 <br/><br/>
 
-# 🤝🏻 How to contact me
-<p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/jack-du-ubc/"><img src="Logos/icons8-linkedin.png" width="50"/></a>  
-&nbsp; <a href="https://www.instagram.com/linchuandu1/"><img src="Logos/icons8-instagram.png" width="50" /></a>  
-&nbsp; <a href="mailto:jack.du.ubc@gmail.com"><img src="Logos/icons8-gmail.png" width="50" /></a>
-&nbsp; <a href="https://twitter.com/JackDu2002"><img src="Logos/icons8-twitter.png"  width="50" /></a>
-</p>
-
-
 <div align="center">
   &copy; 2023 Jack Du
 </div>
