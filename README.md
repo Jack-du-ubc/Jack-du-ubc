@@ -62,21 +62,10 @@ are often just an illusion. -- Michael Jordan"_
 <hr>
 <br>
 
-# 📈 Github Stats
-<p align="center">
-  <!--- stats (start) -->
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jack-du-ubc&theme=dark&hide_border=false" /> 
-      </td>
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jack-du-ubc&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-      </td>
-    </tr>
-  </table>
-  <!--- stats (end) -->
-</p>
+# 🐍 Github Stats
+<!--- stats (start) -->
+![Snake animation](https://raw.githubusercontent.com/Jack-du-ubc/Jack-du-ubc/output/github-contribution-grid-snake-dark.svg)
+<!--- stats (end) -->
 
 [html]: https://devdocs.io/html/
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS/
